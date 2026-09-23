@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-pinecone
+langchain-community
+pypdf
+langgraph
+pinecone
+yfinance
+requests
+python-dotenv
